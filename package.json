@@ -1,6 +1,6 @@
 {
-  "name": "rc-receiever-wiringpi",
-  "version": "1.0.0",
+  "name": "rc-receiver-wiringpi",
+  "version": "0.0.1",
   "description": "Access to an RC Receiver",
   "main": "src/rc-receiver-wiringpi.js",
   "scripts": {
@@ -25,5 +25,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/nkolban/node-rc-receiver-wiringpi.git"
-  },
+  }
 }
