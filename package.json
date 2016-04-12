@@ -1,0 +1,29 @@
+{
+  "name": "rc-receiever-wiringpi",
+  "version": "1.0.0",
+  "description": "Access to an RC Receiver",
+  "main": "src/rc-receiver-wiringpi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rc",
+    "pi",
+    "raspberry",
+    "receiver"
+  ],
+  "author": "Neil Kolban <kolban1@kolban.com>",
+  "license": "ISC",
+  "dependencies": {
+    "wiring-pi" : ">=2.1.1"
+  },
+  "os" : ["linux"],
+  "cpu" : ["arm"],
+  "author": "Neil Kolban",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nkolban/node-rc-receiver-wiringpi.git"
+  },
+}
