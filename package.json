@@ -1,6 +1,6 @@
 {
   "name": "rc-receiver-wiringpi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Access to an RC Receiver",
   "main": "src/rc-receiver-wiringpi.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "author": "Neil Kolban <kolban1@kolban.com>",
   "license": "ISC",
   "dependencies": {
-    "wiring-pi" : ">=2.1.1"
+    "wiring-pi" : "*"
   },
   "os" : ["linux"],
   "cpu" : ["arm"],
